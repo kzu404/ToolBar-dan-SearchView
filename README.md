@@ -1,2 +1,2 @@
 # ToolBar-dan-SearchView
- Tutorial Tentang Custom ToolBar dan Filter SearchView RecyclerView - https://surgatutorial.com
+ Tutorial Tentang Custom ToolBar dan Filter SearchView RecyclerView - http://surgatutorial.com/custom-toolbar-searchview-filter-recyclerview/
